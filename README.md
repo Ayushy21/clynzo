@@ -17,18 +17,7 @@ Whether you're building your portfolio, finishing a college project, or just try
 
 ---
 
-## 👨‍💻 Our Team of Code Doctors
 
-| 🧑‍🚀 Name | 🔗 GitHub Username | 🧪 Specialization |
-|----------|--------------------|------------------|
-| **Narendra Gupta** | [narendraxgupta](https://github.com/narendraxgupta) | Code Surgeon 💉 (Lead backend + Stripe wrangler) |
-| **K Samuel Navanth** | [samuelnavanth](https://github.com/samuelnavanth) | Bug Slayer 🪓 (Authentication & cloud configs) |
-| **Vishal Goswami** | [vishal1024g](https://github.com/vishal1024g) | Routing Monk 🚦 (Express whisperer) |
-| **Ayush Yadav** | [ayush3063](https://github.com/ayush3063) | Logic Coder ⚙️ (Middleware master & DB guy) |
-
-Together, we fought CORS errors, async bugs, and redeployed more times than we slept 😴.
-
----
 
 ## 🧬 Tech Stack
 
